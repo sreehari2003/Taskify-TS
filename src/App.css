@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Neucha&display=swap");
 
 .App {
-  width: 100vw;
   min-height: 100vh;
+  padding: 0 40px 40px 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
